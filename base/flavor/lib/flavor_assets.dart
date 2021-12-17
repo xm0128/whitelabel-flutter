@@ -6,6 +6,7 @@ import 'package:flutter/widgets.dart';
 import 'flavor_theme.dart';
 
 class FlavorAssets {
+  // assets
   //Start
   static const IconData startIcon = IconData(0xe900,
       fontFamily: FlavorTheme.fontFamilyIcon, fontPackage: null);
