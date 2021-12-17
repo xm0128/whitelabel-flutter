@@ -160,10 +160,4 @@ class FlavorAssets {
 
   static const IconData summaryAccidentIcon = IconData(0xe946,
       fontFamily: FlavorTheme.fontFamilyIcon, fontPackage: null);
-
-  //fabIcons
-  static const IconData pdfFabIcon = IconData(0xe944,
-      fontFamily: FlavorTheme.fontFamilyIcon, fontPackage: null);
-  static const IconData plusFabIcon = IconData(0xe945,
-      fontFamily: FlavorTheme.fontFamilyIcon, fontPackage: null);
 }
