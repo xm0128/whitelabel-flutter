@@ -1,0 +1,16 @@
+name: flavor
+description: Flavor specific files (config, thema, strings, assets)
+version: 0.0.1
+publish_to: 'none'
+
+environment:
+  sdk: '>=2.15.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sizer: ^1.1.8
+
+dev_dependencies:
+  # Linter
+  flutter_lints:

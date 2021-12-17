@@ -1,0 +1,7 @@
+{
+    "dynatraceApplicationId": "ad941af0-982a-41a3-b7ca-f02d4183de77",
+    "dynatraceEnvId": "d9cc821c-f1d8-43a7-a976-fe78197673d5",
+    "dynatraceLogLevel": "INFO",
+    "dynatraceShouldMonitorWebRequests": true,
+    "piwikContainerId": "be2b5d23-3562-4318-856e-93a10c171283"
+}
